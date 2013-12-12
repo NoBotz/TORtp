@@ -10,7 +10,7 @@ want users to know their traffic is being sent through a proxy. These problems c
 redirect outbound connections into a transparent proxy, so named because its presence is intended to be invisible to clients." 
 [read more: https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy]
 
-TORtp is a easy way to implement Tor Transparent Proxy in your (debian/ubuntu) GNU/Linux Box.
+TORtp is a easy way to implement Tor Transparent Proxy in Freepto GNU/Linux Box.
 
 # How it works:
 
