@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=TORtp
-Categories=Freepto;
+Categories=Paranoid
 Comment=Redirige a TOR tutto il traffico in uscita dal PC in maniera trasparente
 Icon=anonymous.ico
 Exec=/usr/bin/tortp
